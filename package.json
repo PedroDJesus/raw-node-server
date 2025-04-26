@@ -1,0 +1,19 @@
+{
+  "name": "raw-node-server",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroDJesus/raw-node-server.git"
+  },
+  "author": "Pedro de Jesus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedroDJesus/raw-node-server/issues"
+  },
+  "homepage": "https://github.com/PedroDJesus/raw-node-server#readme",
+  "description": ""
+}
